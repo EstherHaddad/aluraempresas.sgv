@@ -1,1 +1,1 @@
-# aluraempresas.sgv
+# aluraempresas.svg
